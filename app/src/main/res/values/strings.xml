@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jump Article</string>
+    <string name="article_id">Article ID</string>
+    <string name="go">Go!</string>
+    <string name="welcome">Loading…</string>
+    <string name="article_id_not_set">Please input article id</string>
+    <string name="artile_detail">Article</string>
+    <string name="success">Success</string>
+</resources>
